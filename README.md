@@ -6,7 +6,7 @@ Este repositório contém o código-fonte de uma aplicação web construída com
 Tecnologias Utilizadas
 Linguagem de Script: JavaScript
 
-Backend:
+# Backend:
 
 Framework: Express
 Banco de Dados: PostgreSQL (PG)
@@ -19,14 +19,14 @@ Biblioteca de Estilo: Bootstrap
 Funcionalidades
 A aplicação oferece as seguintes funcionalidades através de uma API:
 
-Listagem de Dados: Visualização dos registros armazenados no banco de dados.
+# Listagem de Dados: Visualização dos registros armazenados no banco de dados.
 Inserção de Dados: Adição de novos registros ao banco de dados.
 Atualização de Dados: Modificação de registros existentes no banco de dados.
 Exclusão de Dados: Remoção de registros do banco de dados.
 Configuração e Execução
 Para configurar e executar o projeto, siga as instruções abaixo:
 
-Clonar o repositório:
+# Clonar o repositório:
 
 bash
 Copy code
@@ -47,7 +47,7 @@ Copy code
 npm start
 Acesse a aplicação através do navegador, geralmente em http://localhost:3000.
 
-Estrutura do Projeto
+# Estrutura do Projeto
 A estrutura do projeto está organizada da seguinte forma:
 
 /src: Contém o código-fonte da aplicação.
@@ -59,5 +59,5 @@ A estrutura do projeto está organizada da seguinte forma:
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorar ou adicionar novas funcionalidades.
 
-Licença
+# Licença
 Este projeto está licenciado sob a Licença MIT.
